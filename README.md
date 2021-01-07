@@ -22,7 +22,7 @@ This website is a host for animals that don't really need to be adopted for prac
 
 ## Known Bugs
 
-* No known bugs.
+* _No known bugs._
 
 ## License
 
