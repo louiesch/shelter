@@ -24,3 +24,8 @@ img {
   float: left;
   padding: 5px;
 }
+
+.column p a {
+  color: red;
+  font-weight: bold
+}
