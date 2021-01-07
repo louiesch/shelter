@@ -1,7 +1,12 @@
   
 h1 {
+  text-align: center;
+}
+
+h2 {
   font-weight:bold;
-  font-size: 80px;
+  font-size: 30px;
+  text-align: center;
 }
 
 h3 {
@@ -10,6 +15,12 @@ h3 {
 }
 
 img {
-  max-width: 50%;
+  max-width: 100%;
   max-width: auto;
+}
+
+.column {
+  width: 23%;
+  float: left;
+  padding: 5px;
 }
