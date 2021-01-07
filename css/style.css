@@ -29,3 +29,8 @@ img {
   color: red;
   font-weight: bold
 }
+
+.column h3 {
+  color: rgb(18, 136, 18);
+  font-weight: bold;
+}
